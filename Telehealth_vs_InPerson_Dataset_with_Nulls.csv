@@ -1,0 +1,31 @@
+Patient_ID,Visit_Type,Condition,Treatment_Type,Recovery_Time_Days,Satisfaction_Level,Treatment_Cost,Follow_Up_Needed,Age,Gender
+P001,Telehealth,Arthritis,Medication,49.0,5.0,2352.49,Yes,65,Female
+P002,In-Person,Diabetes,Therapy,89.0,3.0,,Yes,18,Male
+P003,Telehealth,Hypertension,Lifestyle Changes,62.0,4.0,1266.52,Yes,52,Male
+P004,Telehealth,Asthma,Lifestyle Changes,33.0,3.0,2446.31,Yes,65,Female
+P005,Telehealth,Arthritis,Medication,35.0,3.0,1947.37,No,45,Female
+P006,In-Person,Hypertension,Lifestyle Changes,69.0,1.0,1522.33,Yes,40,Male
+P007,Telehealth,Diabetes,Lifestyle Changes,,3.0,1792.62,Yes,25,Male
+P008,Telehealth,Diabetes,Therapy,38.0,5.0,1300.63,Yes,52,Female
+P009,Telehealth,Depression,Medication,24.0,,1827.96,No,52,Female
+P010,In-Person,Depression,Therapy,54.0,,,No,18,Female
+P011,Telehealth,Asthma,Therapy,74.0,5.0,1836.19,No,70,Female
+P012,Telehealth,Hypertension,Therapy,80.0,2.0,1569.2,No,52,Male
+P013,Telehealth,Hypertension,Therapy,18.0,3.0,1870.91,,32,Female
+P014,Telehealth,Depression,Therapy,10.0,1.0,2230.48,Yes,40,Female
+P015,In-Person,Hypertension,Therapy,17.0,2.0,1325.31,No,40,Male
+P016,Telehealth,Hypertension,Therapy,72.0,2.0,1490.46,Yes,32,Female
+P017,In-Person,Diabetes,Medication,20.0,4.0,2063.51,Yes,32,Male
+P018,In-Person,Depression,Lifestyle Changes,17.0,,,Yes,32,Female
+P019,In-Person,Arthritis,Therapy,44.0,3.0,2972.56,No,40,Female
+P020,Telehealth,Depression,Therapy,44.0,1.0,,No,60,Female
+P021,In-Person,Arthritis,Therapy,,4.0,1546.51,Yes,40,Male
+P022,Telehealth,Diabetes,Therapy,14.0,5.0,1591.32,No,70,Male
+P023,In-Person,Asthma,Therapy,50.0,,1758.44,,18,Female
+P024,In-Person,Hypertension,Therapy,37.0,5.0,1715.09,No,65,Male
+P025,In-Person,Diabetes,Lifestyle Changes,,5.0,954.2,,60,Male
+P026,In-Person,Hypertension,Lifestyle Changes,82.0,3.0,2631.87,No,25,Male
+P027,In-Person,Asthma,Therapy,81.0,5.0,1992.26,Yes,65,Male
+P028,In-Person,Asthma,Lifestyle Changes,21.0,4.0,1986.31,No,18,Male
+P029,In-Person,Diabetes,Medication,43.0,5.0,2408.94,,70,Male
+P030,In-Person,Asthma,Therapy,,3.0,1472.7,Yes,70,Female
